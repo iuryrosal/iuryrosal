@@ -1,4 +1,4 @@
-# Hello, my name is Iury Rosal!
+# Hello, I'm Iury Rosal!
 🎓 Computer Engineer from the Universidade Federal do Ceará (UFC-Brazil)
 
 💻 Data Scientist - Alldesk 
@@ -12,6 +12,12 @@
 - 📖 I have notions of web development using Ruby On Rails (for systems development) and Wordpress, HTML and CSS (for website construction). I already worked with UX / UI using Figma and Pencil Project.
 - 🔰 I have experience in management and modeling of web development projects using agile methodologies (SCRUM, XP Programming). In addition to experiences in the area of business and strategic management, mainly in the area of technology.
 - 💝 I love learn new things and teach new things. =D
+
+#### Four things:
+- 🚗 Trip
+- 🍫 Chocolate
+- 🧠 Knowledge
+- 👪 Family and Best Friends
 
 # Main Repositories
 Some public repositories, most containing study projects.
