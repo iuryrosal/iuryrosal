@@ -6,8 +6,7 @@
 ![https://www.linkedin.com/in/iuryrosal/
 ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-](https://t.me/iuryrosal)
+![https://t.me/iuryrosal](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 **About Me:**
 - 🎯 I’m currently working on Python, mainly applied in the areas of data science and business intelligence.
