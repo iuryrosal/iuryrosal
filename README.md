@@ -12,9 +12,9 @@
 # Repositórios Principais
 Alguns repositórios públicos, a maioria contendo projetos de estudo.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=highcontrast)](https://github.com/iuryrosal/data-science)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=deep-learning&theme=highcontrast)](https://github.com/iuryrosal/deep-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=dark)](https://github.com/iuryrosal/data-science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=deep-learning&theme=dark)](https://github.com/iuryrosal/deep-learning)
 
 
-![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=highcontrast)
+![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=dark)
 
