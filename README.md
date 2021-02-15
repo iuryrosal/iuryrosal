@@ -14,7 +14,7 @@
 - 💝 I love learn new things and teach new things. =D
 
 # Main Repositories
-Alguns repositórios públicos, a maioria contendo projetos de estudo.
+Some public repositories, most containing study projects.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=deep-learning&theme=radical)](https://github.com/iuryrosal/deep-learning)
