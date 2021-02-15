@@ -10,9 +10,11 @@
 - 💝 I love learn new things and teach new things. =D
 
 # Repositórios Principais
-Alguns projetos públicos, normalmente sendo projetos de estudo.
+Alguns repositórios públicos, a maioria contendo projetos de estudo.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=deep-learning)](https://github.com/iuryrosal/deep-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=cobalt)](https://github.com/iuryrosal/data-science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=deep-learning&theme=cobalt)](https://github.com/iuryrosal/deep-learning)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=cobalt)
+
+![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=cobalt)
 
