@@ -1,6 +1,13 @@
 # Hello, my name is Iury Rosal!
 🎓 Computer Engineer from the Universidade Federal do Ceará (UFC-Brazil)
+
 💻 Data Scientist - Alldesk 
+
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+](https://www.linkedin.com/in/iuryrosal/)
+
+![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+](https://t.me/iuryrosal)
 
 **About Me:**
 - 🎯 I’m currently working on Python, mainly applied in the areas of data science and business intelligence.
