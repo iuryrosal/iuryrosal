@@ -15,7 +15,7 @@
 - 🔰 I have experience in management and modeling of web development projects using agile methodologies (SCRUM, XP Programming). In addition to experiences in the area of business and strategic management, mainly in the area of technology.
 - 💝 I love learn new things and teach new things. =D
 
-# Repositórios Principais
+# Main Repositories
 Alguns repositórios públicos, a maioria contendo projetos de estudo.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
