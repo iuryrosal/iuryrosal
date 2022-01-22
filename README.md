@@ -37,7 +37,7 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@iuryrosal)
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='youtube' height='30'>](https://dev.to/iuryrosal)
 
-## Últimos Vídeos do Canal do Youtube
+## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
 - [Entendimento do Negócio | Projeto - Segmentação de Clientes](https://www.youtube.com/watch?v=Xdy_IXLz2N4)
 - [Escopo | Projeto II - Segmentação de Clientes em E-commerce](https://www.youtube.com/watch?v=MZsNL3S9VIg)
