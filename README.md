@@ -36,4 +36,9 @@ Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dad
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendimento do Negócio | Projeto - Segmentação de Clientes](https://www.youtube.com/watch?v=Xdy_IXLz2N4)
+- [Escopo | Projeto II - Segmentação de Clientes em E-commerce](https://www.youtube.com/watch?v=MZsNL3S9VIg)
+- [10 extensões do Visual Studio Code que ajudam na produtividade](https://www.youtube.com/watch?v=hJQWIavBdPg)
+- [Computação em Nuvem: Uma Introdução Executiva](https://www.youtube.com/watch?v=oOmhtyESf64)
+- [Listas Encadeadas &lpar;Ligadas&rpar; | Estrutura de Dados &lpar;Parte 3&rpar;](https://www.youtube.com/watch?v=UFuqP40byj8)
 <!-- BLOG-POST-LIST:END -->
