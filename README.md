@@ -5,7 +5,7 @@
 </p>
 
 
-Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dados e Engenharia de Dados. Sou apaixonado por educação, empreendedorismo e tecnologia. Vejo a área de dados como uma grande ponte entre a área de negócios e tecnologia. Tendo entendimento dos dados e extraindo valor deles é possível atingir uma grande vantagem competitiva para melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
+Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Engenharia de Dados. Já vivenciei diferentes áreas envolvendo gerência de projetos, desenvolvimento web, criação de efeitos visuais, desenvolvimento de treinamentos e Marketing. Sou apaixonado por educação, empreendedorismo e tecnologia. Vejo a área de dados como uma grande ponte entre a área de negócios e tecnologia. Tendo entendimento dos dados e extraindo valor deles é possível atingir uma grande vantagem competitiva. Com decisões guiadas em dados podemos proporcionar a melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
