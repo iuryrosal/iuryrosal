@@ -34,3 +34,6 @@ Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dad
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
