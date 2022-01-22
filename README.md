@@ -5,16 +5,25 @@
 </p>
 
 
-Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dados e Engenharia de Dados. Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas. Sou apaixonado por educação, empreendedorismo e tecnologia. Por isso, vejo a área de dados como uma grande ponte entre a área de negócios e tecnologia. Também acredito que meu desenvolvimento auxilia no desenvolvimento das outras pessoas, e vice-versa. Amo aprender novos conceitos, vivenciar novos desafios e passar o meu conhecimento/experiência para impactar a vida das outras pessoas.
+Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dados e Engenharia de Dados. Sou apaixonado por educação, empreendedorismo e tecnologia. Vejo a área de dados como uma grande ponte entre a área de negócios e tecnologia. Tendo entendimento dos dados e extraindo valor deles é possível atingir uma grande vantagem competitiva para melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
 
 ## Skills
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postegresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## Detalhes
-- 🔭 Trabalho atualmente na Accenture.
-- 🌱 Estou aprendendo sobre Apache Spark e me aprofundando em AWS.
-- 🤗 Gosto de colaborar com compartilhamento de conhecimento.
+- 🔭 Trabalho, atualmente, na Accenture.
+- 🌱 Estou me aprofundando em Apache Spark e AWS.
+- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
 - 😄 Pronomes: Ele/Dele.
 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,13 +37,7 @@ Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dad
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@iuryrosal)
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='youtube' height='30'>](https://dev.to/iuryrosal)
 
-## Repositórios Principais
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
-
-# Blog posts
+## Últimos Vídeos do Canal do Youtube
 <!-- BLOG-POST-LIST:START -->
 - [Entendimento do Negócio | Projeto - Segmentação de Clientes](https://www.youtube.com/watch?v=Xdy_IXLz2N4)
 - [Escopo | Projeto II - Segmentação de Clientes em E-commerce](https://www.youtube.com/watch?v=MZsNL3S9VIg)
@@ -42,3 +45,9 @@ Trabalho em diversos projetos envolvendo Engenharia de Software, Ciência de Dad
 - [Computação em Nuvem: Uma Introdução Executiva](https://www.youtube.com/watch?v=oOmhtyESf64)
 - [Listas Encadeadas &lpar;Ligadas&rpar; | Estrutura de Dados &lpar;Parte 3&rpar;](https://www.youtube.com/watch?v=UFuqP40byj8)
 <!-- BLOG-POST-LIST:END -->
+
+## Repositórios Principais
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
