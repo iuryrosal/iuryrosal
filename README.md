@@ -47,7 +47,7 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=Construcao-e-Analise-de-Algoritmos&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=Construcao-e-Analise-de-Algoritmos&theme=radical)](https://github.com/iuryrosal/Construcao-e-Analise-de-Algoritmos)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
 
