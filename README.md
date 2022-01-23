@@ -1,4 +1,5 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Iury Rosal</h1>
+<h3 align="center">Data & Analytics Engineer</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/8gCTjQ0/Banner-Git-Hub.png" alt="Sublime's custom image"/>
