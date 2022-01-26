@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Análise Exploratória Inicial | Projeto - Segmentação de Clientes em Ecommerce &lpar;#3&rpar;](https://www.youtube.com/watch?v=iDcsfSt6Qdg)
 - [Melhorando o perfil do GitHub para Portfólio | Carreira](https://www.youtube.com/watch?v=bcAym0r4wCg)
 - [Entendimento do Negócio | Projeto - Segmentação de Clientes &lpar;#2&rpar;](https://www.youtube.com/watch?v=Xdy_IXLz2N4)
 - [Escopo | Projeto II - Segmentação de Clientes em E-commerce](https://www.youtube.com/watch?v=MZsNL3S9VIg)
 - [10 extensões do Visual Studio Code que ajudam na produtividade](https://www.youtube.com/watch?v=hJQWIavBdPg)
-- [Computação em Nuvem: Uma Introdução Executiva](https://www.youtube.com/watch?v=oOmhtyESf64)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
