@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Automação de Últimos Posts ReadMe GitHub | Carreira](https://www.youtube.com/watch?v=QY_ZpyHZtfY)
 - [Uma Gentil Introdução ao Machine Learning](https://www.youtube.com/watch?v=9bGIBZ_BQx4)
 - [Análise Exploratória Inicial | Projeto - Segmentação de Clientes em Ecommerce &lpar;#3&rpar;](https://www.youtube.com/watch?v=iDcsfSt6Qdg)
 - [Melhorando o perfil do GitHub para Portfólio | Carreira](https://www.youtube.com/watch?v=bcAym0r4wCg)
 - [Entendimento do Negócio | Projeto - Segmentação de Clientes &lpar;#2&rpar;](https://www.youtube.com/watch?v=Xdy_IXLz2N4)
-- [Escopo | Projeto II - Segmentação de Clientes em E-commerce](https://www.youtube.com/watch?v=MZsNL3S9VIg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
