@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Analise de Clusters | Projeto Clusterização de Clientes](https://www.youtube.com/watch?v=V8Ltdq1rR3M)
 - [Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]](https://www.youtube.com/watch?v=x0_mWMQLz3E)
 - [Modelagem de Clusterização | Projeto Segmentação de Clientes](https://www.youtube.com/watch?v=685UYiiELqw)
 - [Quiz em Python | Projeto para Iniciantes [A1]](https://www.youtube.com/watch?v=MRYlWPrsMYk)
 - [Processamento de Dados | Projeto Segmentação de Clientes](https://www.youtube.com/watch?v=abAUOSPdhlA)
-- [Tipos de Aprendizagem de Máquina | Machine Learning: Fundamentos](https://www.youtube.com/watch?v=Cn9EV3mjT-k)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
