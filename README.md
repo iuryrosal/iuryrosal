@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Temporizador em Python | Projetos para Iniciantes [A4]](https://www.youtube.com/watch?v=yfAixrxCVfo)
 - [Pedra, Papel e Tesoura em Python | Projetos para Iniciantes [A3]](https://www.youtube.com/watch?v=kO_lUkeQm4c)
 - [Analise de Clusters | Projeto Clusterização de Clientes](https://www.youtube.com/watch?v=V8Ltdq1rR3M)
 - [Construindo Jogo de Adivinhação Numérica em Python | Projeto para Iniciantes [A2]](https://www.youtube.com/watch?v=x0_mWMQLz3E)
 - [Modelagem de Clusterização | Projeto Segmentação de Clientes](https://www.youtube.com/watch?v=685UYiiELqw)
-- [Quiz em Python | Projeto para Iniciantes [A1]](https://www.youtube.com/watch?v=MRYlWPrsMYk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
