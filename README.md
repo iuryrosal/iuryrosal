@@ -48,7 +48,7 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-pythons&theme=radical)](https://github.com/iuryrosal/projetos-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
 
