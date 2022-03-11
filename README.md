@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Desenhando Diagramas por Linha de Código | PlantUML e VS Code](https://www.youtube.com/watch?v=WSC1K_rDf2w)
 - [Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]](https://www.youtube.com/watch?v=0PvfcHCtqXw)
 - [Jogo da Adivinhação das Datas &lpar;termoo&rpar; | Projetos em Python para Iniciantes [A6]](https://www.youtube.com/watch?v=ridIE7ZS5KI)
 - [Nunca mais &quot;prints&quot;! Digam olá mundo ao Logging em Python!](https://www.youtube.com/watch?v=JBZ0T6rWat0)
 - [Gerador de Senha em Python | Projeto para Iniciantes [A5]](https://www.youtube.com/watch?v=aAImiFpG_hA)
-- [Uma breve introdução ao Apache Spark](https://www.youtube.com/watch?v=cM3vSUW3Zns)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
