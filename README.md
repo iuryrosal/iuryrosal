@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Os profissionais de Dados | Carreira](https://www.youtube.com/watch?v=Q1J5j0IciZ8)
 - [Datas e Funções | Projetos em Python para Iniciantes [A7]](https://www.youtube.com/watch?v=m8xBpg0knCM)
 - [Desenhando Diagramas por Linha de Código | PlantUML e VS Code](https://www.youtube.com/watch?v=WSC1K_rDf2w)
 - [Filtrando e Mapeando Animais de um Aquário | Projetos em Python para Iniciantes [B1]](https://www.youtube.com/watch?v=0PvfcHCtqXw)
 - [Jogo da Adivinhação das Datas &lpar;termoo&rpar; | Projetos em Python para Iniciantes [A6]](https://www.youtube.com/watch?v=ridIE7ZS5KI)
-- [Nunca mais &quot;prints&quot;! Digam olá mundo ao Logging em Python!](https://www.youtube.com/watch?v=JBZ0T6rWat0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
