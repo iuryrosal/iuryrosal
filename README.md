@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Coletando e Exibindo Dados do NBA com API | Projetos em Python para Iniciantes](https://www.youtube.com/watch?v=ghOaY1sd9aY)
 - [AWS: Uma Visão Geral | AWS Fundamentos](https://www.youtube.com/watch?v=k-nSq9jCuWE)
 - [Map e Reduce em Aquário | Projetos em Python Para Iniciantes](https://www.youtube.com/watch?v=yZ2ATIGXSIQ)
 - [Os profissionais de Dados | Carreira](https://www.youtube.com/watch?v=Q1J5j0IciZ8)
 - [Datas e Funções | Projetos em Python para Iniciantes [A7]](https://www.youtube.com/watch?v=m8xBpg0knCM)
-- [Desenhando Diagramas por Linha de Código | PlantUML e VS Code](https://www.youtube.com/watch?v=WSC1K_rDf2w)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
