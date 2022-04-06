@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [7 atalhos úteis em Python | Dicas &amp; Truques](https://www.youtube.com/watch?v=DT01zlT6Xbg)
 - [Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]](https://www.youtube.com/watch?v=66ugH75ao7c)
 - [AWS Infraestrutura Global e AWS CloudFront | AWS Fundamentos](https://www.youtube.com/watch?v=Jq1ns1WlLqE)
 - [Coletando e Exibindo Dados do NBA com API | Projetos em Python para Iniciantes [B3]](https://www.youtube.com/watch?v=ghOaY1sd9aY)
 - [AWS: Uma Visão Geral | AWS Fundamentos](https://www.youtube.com/watch?v=k-nSq9jCuWE)
-- [Map e Reduce em Aquário | Projetos em Python Para Iniciantes](https://www.youtube.com/watch?v=yZ2ATIGXSIQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
