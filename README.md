@@ -2,7 +2,7 @@
 <h3 align="center">Data & Analytics Engineer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/8gCTjQ0/Banner-Git-Hub.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/iuryrosal/iuryrosal/images/Banner GitHub.png" alt="Banner's Iury"/>
 </p>
 
 
