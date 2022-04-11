@@ -2,7 +2,7 @@
 <h3 align="center">Data & Analytics Engineer</h3>
 
 <p align="center">
-  <img src="https://github.com/iuryrosal/iuryrosal/images/Banner GitHub.png" alt="Banner's Iury"/>
+  <img src="https://github.com/iuryrosal/iuryrosal/blob/main/images/BannerGitHub.png" alt="Banner's Iury"/>
 </p>
 
 
