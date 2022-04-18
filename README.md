@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Extraindo dados do Airbnb | Projetos em Python para Iniciantes](https://www.youtube.com/watch?v=YEvoDf2azq0)
 - [Conversor de Moedas Orientado a Objetos | Projetos em Python para Iniciantes [B4]](https://www.youtube.com/watch?v=9BwJKlLu9Ug)
 - [7 atalhos úteis em Python | Dicas &amp; Truques](https://www.youtube.com/watch?v=DT01zlT6Xbg)
 - [Detectando palindromos com recursividade | Projetos em Python para Iniciantes [A8]](https://www.youtube.com/watch?v=66ugH75ao7c)
 - [AWS Infraestrutura Global e AWS CloudFront | AWS Fundamentos](https://www.youtube.com/watch?v=Jq1ns1WlLqE)
-- [Coletando e Exibindo Dados do NBA com API | Projetos em Python para Iniciantes [B3]](https://www.youtube.com/watch?v=ghOaY1sd9aY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
