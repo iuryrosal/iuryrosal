@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [KNN: Classificando com a vizinhança | Machine Learning: Fundamentos](https://www.youtube.com/watch?v=9ChI6ZFz1ak)
 - [Trabalhando os Commits para ser um Codificador Melhor | GitHub](https://www.youtube.com/watch?v=cmFsVwHMt90)
 - [Portas Lógicas e Herança | Projetos em Python para Iniciantes [B6]](https://www.youtube.com/watch?v=_iCCE_VuO4g)
 - [Extraindo dados do Airbnb | Projetos em Python para Iniciantes [B5]](https://www.youtube.com/watch?v=YEvoDf2azq0)
 - [Conversor de Moedas Orientado a Objetos | Projetos em Python para Iniciantes [B4]](https://www.youtube.com/watch?v=9BwJKlLu9Ug)
-- [7 atalhos úteis em Python | Dicas &amp; Truques](https://www.youtube.com/watch?v=DT01zlT6Xbg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
