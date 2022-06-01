@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Métricas de Performance para Classificação com Sklearn | Machine Learning: Fundamentos](https://www.youtube.com/watch?v=FqHd1Cu_Cq4)
 - [Métricas de Performance para Classificação | Machine Learning: Fundamentos](https://www.youtube.com/watch?v=6vM-qc2StZI)
 - [Model Tuning no KNN &lpar;Sklearn&rpar; | Machine Learning: Fundamentos](https://www.youtube.com/watch?v=rokC0PdqwpQ)
 - [AWS Lambda: Visão Geral | AWS Fundamentos](https://www.youtube.com/watch?v=Dq3xUsa3EFU)
 - [KNN: Classificando com a vizinhança | Machine Learning: Fundamentos](https://www.youtube.com/watch?v=9ChI6ZFz1ak)
-- [Trabalhando os Commits para ser um Codificador Melhor | GitHub](https://www.youtube.com/watch?v=cmFsVwHMt90)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
