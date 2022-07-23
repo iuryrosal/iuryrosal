@@ -40,11 +40,11 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 
 ## Últimos Vídeos do Youtube
 <!-- BLOG-POST-LIST:START -->
+- [Mesa Redonda: Mercado e Área de Dados &lpar;DataPeste&rpar;](https://www.youtube.com/watch?v=4hmVh1X7QZg)
 - [Padrões de Projeto: Singleton | Projetos em Python para Iniciantes [C4]](https://www.youtube.com/watch?v=TPxlrJQAF7w)
 - [TCC | Fatores que impactam no tempo de solução dos bugs em projetos de software livre](https://www.youtube.com/watch?v=-pCtmTWF5Ek)
 - [AWS SQS: Uma visão geral | AWS Fundamentos](https://www.youtube.com/watch?v=ofM-PQoAXH0)
 - [Padrões de Projeto: Builder | Projetos em Python para Iniciantes [C3]](https://www.youtube.com/watch?v=TLppLr2R1mI)
-- [Padrões de Projeto: Abstract Factory | Projetos em Python para Iniciantes [C2]](https://www.youtube.com/watch?v=8VhaRVsUmTU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios Principais
