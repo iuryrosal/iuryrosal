@@ -6,7 +6,9 @@
 </p>
 
 
-Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Engenharia de Dados. Já vivenciei diferentes áreas envolvendo gerência de projetos, gestão estratégica, desenvolvimento web, criação de efeitos visuais, desenvolvimento de treinamentos, modelagem de negócios e marketing. Sou apaixonado por educação, empreendedorismo e tecnologia. Vejo a área de dados como uma grande ponte entre a área de negócios e tecnologia. Tendo entendimento dos dados e extraindo valor deles é possível atingir uma grande vantagem competitiva. Com decisões guiadas em dados podemos proporcionar a melhoria do negócio, assim como dos seus serviços, impactando positivamente a sociedade.
+I'm a software engineer passionate about the world of Data Science and Data Engineering. I have more than 4 years of working experience using different technologies in several contexts, especially Python and AWS. I believe that my development helps in the development of other people. I love to learn new concepts, experience new challenges and pass on all the knowledge to impact other people's lives.
+
+Nowdays, I work in Data Engineering projects, involving data ingestion, operating in a cloud computing environment. In addition, I'm a content creator. I share my learnings and experiences through my YouTube channel and some training projects. I look forward to continuing to evolve my skills with Python and AWS, experimenting with new big data technologies such as Apache Spark and Airflow.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,24 +23,24 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 ![Postegresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## Detalhes
-- 🔭 Trabalho, atualmente, na Accenture.
-- 🌱 Estou me aprofundando em Apache Spark e AWS.
-- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
-- 😄 Pronomes: Ele/Dele.
+## Details
+- 🔭 I'm working at Accenture.
+- 🌱 I'm improving my habillities with Apache Spark and AWS.
+- 🤗 I like to experience new learnings and collaborate with knowledge sharing
+- 😄 Pronouns: He/Him.
 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Conheça meu trabalho em outras redes..
+## Meet my work on other networks..
 [<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>](https://www.youtube.com/c/ResumodoSucesso)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/iuryrosal/)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@iuryrosal)
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='youtube' height='30'>](https://dev.to/iuryrosal)
 
-## Últimos Vídeos do Youtube
+## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
 - [Mesa Redonda: Mercado e Área de Dados &lpar;DataPeste&rpar;](https://www.youtube.com/watch?v=4hmVh1X7QZg)
 - [Padrões de Projeto: Singleton | Projetos em Python para Iniciantes [C4]](https://www.youtube.com/watch?v=TPxlrJQAF7w)
@@ -47,7 +49,7 @@ Trabalho em projetos envolvendo Engenharia de Software, Ciência de Dados e Enge
 - [Padrões de Projeto: Builder | Projetos em Python para Iniciantes [C3]](https://www.youtube.com/watch?v=TLppLr2R1mI)
 <!-- BLOG-POST-LIST:END -->
 
-## Repositórios Principais
+## Core Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
