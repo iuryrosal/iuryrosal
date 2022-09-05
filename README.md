@@ -50,6 +50,9 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=automated-ingestion-data&theme=radical)](https://github.com/iuryrosal/automated-ingestion-data)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
