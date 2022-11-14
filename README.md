@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Você precisa de faculdade para ser profissional de TI](https://www.youtube.com/watch?v=EvkGzXw5kkM)
 - [Mesa Redonda: Mercado e Área de Dados &lpar;DataPeste&rpar;](https://www.youtube.com/watch?v=4hmVh1X7QZg)
 - [Padrões de Projeto: Singleton | Projetos em Python para Iniciantes [C4]](https://www.youtube.com/watch?v=TPxlrJQAF7w)
 - [TCC | Fatores que impactam no tempo de solução dos bugs em projetos de software livre](https://www.youtube.com/watch?v=-pCtmTWF5Ek)
 - [AWS SQS: Uma visão geral | AWS Fundamentos](https://www.youtube.com/watch?v=ofM-PQoAXH0)
-- [Padrões de Projeto: Builder | Projetos em Python para Iniciantes [C3]](https://www.youtube.com/watch?v=TLppLr2R1mI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
