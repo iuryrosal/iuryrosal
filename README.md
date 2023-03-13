@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Método __new__ no Python](https://www.youtube.com/watch?v=9xt_UMnv1tI)
 - [Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]](https://www.youtube.com/watch?v=ZCrwGHMe28c)
 - [Você precisa de faculdade para ser profissional de TI](https://www.youtube.com/watch?v=EvkGzXw5kkM)
 - [Mesa Redonda: Mercado e Área de Dados &lpar;DataPeste&rpar;](https://www.youtube.com/watch?v=4hmVh1X7QZg)
 - [Padrões de Projeto: Singleton | Projetos em Python para Iniciantes [C4]](https://www.youtube.com/watch?v=TPxlrJQAF7w)
-- [TCC | Fatores que impactam no tempo de solução dos bugs em projetos de software livre](https://www.youtube.com/watch?v=-pCtmTWF5Ek)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
