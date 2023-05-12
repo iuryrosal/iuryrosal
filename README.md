@@ -42,7 +42,7 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
-- [Conversando objetos no Python usando Pickle](https://www.youtube.com/watch?v=HR1mDc-SF9c)
+- [Conservando objetos no Python usando Pickle](https://www.youtube.com/watch?v=HR1mDc-SF9c)
 - [Método __new__ no Python](https://www.youtube.com/watch?v=9xt_UMnv1tI)
 - [Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]](https://www.youtube.com/watch?v=ZCrwGHMe28c)
 - [Você precisa de faculdade para ser profissional de TI](https://www.youtube.com/watch?v=EvkGzXw5kkM)
