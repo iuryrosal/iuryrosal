@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Iteráveis e Módulo Itertools](https://www.youtube.com/watch?v=2CoaHb1Tuxg)
 - [Adicionando funcionalidade nas funções por meio de decoradores no Python](https://www.youtube.com/watch?v=AgVgs1Iwk7I)
 - [Padrões de Projeto: Bridge| Projetos em Python para Iniciantes [C6]](https://www.youtube.com/watch?v=bT_9SJ7yVI8)
 - [Conservando objetos no Python usando Pickle](https://www.youtube.com/watch?v=HR1mDc-SF9c)
 - [Método __new__ no Python](https://www.youtube.com/watch?v=9xt_UMnv1tI)
-- [Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]](https://www.youtube.com/watch?v=ZCrwGHMe28c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
