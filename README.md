@@ -43,10 +43,10 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
 - [Engenharia de Software para Dados com Python | Apoena Stack](https://www.youtube.com/watch?v=OpNG90VO_DM)
-- [Mentoria em Grupo de Engenharia de Dados &lpar;Apoena Stack&rpar;](https://www.youtube.com/watch?v=u_eGoLAezPU)
 - [5 passos para se tornar um Engenheiro de Dados.](https://www.youtube.com/watch?v=oZDcvw0YUEA)
 - [5 &quot;code smells&quot; para evitar a todo custo no Python](https://www.youtube.com/watch?v=irud9l28de0)
 - [Iteráveis e Módulo Itertools](https://www.youtube.com/watch?v=2CoaHb1Tuxg)
+- [Adicionando funcionalidade nas funções por meio de decoradores no Python](https://www.youtube.com/watch?v=AgVgs1Iwk7I)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
