@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
-- [Encontro de Engenharia I | Ingestão de Dados com Python, DuckDB e MinIo](https://www.youtube.com/watch?v=r1Cp4oV_JXI)
+- [Algoritmos de Ordenação de Dados e Seus Desafios &lpar;Encontro de Engenharia III&rpar;](https://www.youtube.com/watch?v=YsP63Bjd7_0)
+- [Análise de Complexidade de Algoritmos &lpar;Encontro de Engenharia I&rpar;](https://www.youtube.com/watch?v=nI5mdRKPPJs)
+- [Estruturando Projetos de Python do Zero &lpar;Encontro de Engenharia I&rpar;](https://www.youtube.com/watch?v=2u7muy23F8s)
+- [Ingestão de Dados com Python, DuckDB e MinIo &lpar;Encontro de Engenharia IV&rpar;](https://www.youtube.com/watch?v=r1Cp4oV_JXI)
 - [DuckDB: Introdução &lpar;Guia Definitivo e Completo&rpar;](https://www.youtube.com/watch?v=C2WNp2eRF70)
-- [Problemas de Python - Lucro Máximo | Técnica de Deslizamento de Janela](https://www.youtube.com/watch?v=8GZMR1WeWPo)
-- [Engenharia de Software para Dados com Python | Apoena Stack](https://www.youtube.com/watch?v=OpNG90VO_DM)
-- [5 passos para se tornar um Engenheiro de Dados.](https://www.youtube.com/watch?v=oZDcvw0YUEA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
