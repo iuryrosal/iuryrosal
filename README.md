@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Processamento de Dados com DuckDB, AWS e Spark com Pedro Holanda](https://www.youtube.com/watch?v=85XmMO6zlLU)
 - [Docker: O Básico e Essencial para Dados &lpar;Encontro de Engenharia II&rpar;](https://www.youtube.com/watch?v=YsP63Bjd7_0)
 - [Estruturando Projetos de Python do Zero &lpar;Encontro de Engenharia I&rpar;](https://www.youtube.com/watch?v=2u7muy23F8s)
 - [DuckDB: Introdução &lpar;Guia Definitivo e Completo&rpar;](https://www.youtube.com/watch?v=C2WNp2eRF70)
 - [Problemas de Python - Lucro Máximo | Técnica de Deslizamento de Janela](https://www.youtube.com/watch?v=8GZMR1WeWPo)
-- [Engenharia de Software para Dados com Python | Apoena Stack](https://www.youtube.com/watch?v=OpNG90VO_DM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
