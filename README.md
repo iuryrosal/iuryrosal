@@ -42,7 +42,7 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
-- [Apoena Stack - O projeto da minha vida!!!](https://www.youtube.com/watch?v=kWuI6miCDaI)
+- [Compute Engine: O Poder Computacional da Google Cloud](https://www.youtube.com/watch?v=tvuhrIpoU4c)
 - [Ingestão de Dados Orientado a Objetos com princípios SOLID &lpar;Encontro de Engenharia IV&rpar;](https://www.youtube.com/watch?v=vvrcUgBpprM)
 - [Processamento de Dados com DuckDB, AWS e Spark com Pedro Holanda](https://www.youtube.com/watch?v=85XmMO6zlLU)
 - [Docker: O Básico e Essencial para Dados &lpar;Encontro de Engenharia II&rpar;](https://www.youtube.com/watch?v=YsP63Bjd7_0)
