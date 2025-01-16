@@ -42,9 +42,9 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Arquiteturas de Dados e Modelagem | Dados: Uma Introdução Executiva](https://www.youtube.com/watch?v=NroevBo13HA)
 - [Estruturação de Dados | Dados: Uma Introdução Executiva &lpar;Capítulo 1&rpar;](https://www.youtube.com/watch?v=Ns-ClUl-7LY)
 - [Big Data e Computação | Dados: Uma Introdução Executiva](https://www.youtube.com/watch?v=lbKiTuQg-oo)
-- [Arquiteturas de Dados e Modelagem | Dados: Uma Introdução Executiva](https://www.youtube.com/watch?v=NroevBo13HA)
 - [Apresentação | Dados: Uma Introdução Executiva](https://www.youtube.com/watch?v=tKMYNtsDDNU)
 - [Como se preparar para entrevistas técnicas em Dados? Ponto de vista de Entrevistador. &lpar;feat. Anwar&rpar;](https://www.youtube.com/watch?v=dI2cysdgnFQ)
 <!-- BLOG-POST-LIST:END -->
