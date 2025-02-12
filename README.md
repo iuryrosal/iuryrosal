@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps: Práticas de Segurança em Docker, Kubernetes e CI/CD | Encontro de Engenharia](https://www.youtube.com/watch?v=c2-6ChWATSQ)
 - [Do Excel ao Data Mesh | Dados: Uma Introdução Executiva](https://www.youtube.com/watch?v=0yrNUUtb-IE)
 - [Papéis, Governança e Estratégia | Dados: Uma Introdução Executiva &lpar;Capítulo 04&rpar;](https://www.youtube.com/watch?v=xz5lVowVPpg)
 - [Big Data e Computação | Dados: Uma Introdução Executiva](https://www.youtube.com/watch?v=lbKiTuQg-oo)
 - [Arquiteturas de Dados e Modelagem | Dados: Uma Introdução Executiva &lpar;Capítulo 02&rpar;](https://www.youtube.com/watch?v=NroevBo13HA)
-- [Estruturação de Dados | Dados: Uma Introdução Executiva &lpar;Capítulo 1&rpar;](https://www.youtube.com/watch?v=Ns-ClUl-7LY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
