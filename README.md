@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Introdução a Modelagem de Dados 10 | Construindo Modelo Lógico a partir do Conceitual](https://www.youtube.com/watch?v=_vojZWiK8I8)
+- [Introdução a Modelagem de Dados 09 | Esquemas e Restrições de Integridade](https://www.youtube.com/watch?v=x9MOHRTQInM)
 - [Introdução a Modelagem de Dados 08 | Introdução ao Modelo Relacional](https://www.youtube.com/watch?v=JyUrJRuePzE)
 - [Introdução a Modelagem de Dados 07 | Modelo Conceitual - Diagrama Entidade Relacionamento](https://www.youtube.com/watch?v=I0ZsCLLcKIU)
 - [Introdução a Modelagem de Dados 06 | Construindo Modelo Conceitual - Mapeamento de Contexto](https://www.youtube.com/watch?v=ePG1Llutq4g)
-- [Introdução a Modelagem de Dados 05 | Relacionamentos e Cardinalidade](https://www.youtube.com/watch?v=zpu9TjM6vSA)
-- [Introdução a Modelagem de Dados 04 | Entidade e Atributos](https://www.youtube.com/watch?v=1MUVYOBVUpo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
