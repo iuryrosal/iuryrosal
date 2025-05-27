@@ -42,8 +42,8 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
-- [Introdução a Modelagem de Dados 15 | Operações: Seleção, Ordenação e Agrupamento](https://www.youtube.com/watch?v=fE5AcBwsq5M)
-- [Introdução a Modelagem de Dados 14 | Algebra Relacional e Relax](https://www.youtube.com/watch?v=IFXMw1X7124)
+- [Introdução a Modelagem de Dados 13 | Algebra Relacional e Relax](https://www.youtube.com/watch?v=fE5AcBwsq5M)
+- [Introdução a Modelagem de Dados 14 | Operações: Seleção, Ordenação e Agrupamento](https://www.youtube.com/watch?v=IFXMw1X7124)
 - [Introdução a Modelagem de Dados 12 | Tipagem de Dados](https://www.youtube.com/watch?v=wNgAKE7jDlk)
 - [Introdução a Modelagem de Dados 11 | Modelo Entidade Relacionamento &lpar;MER&rpar;](https://www.youtube.com/watch?v=uSjp21xIOZE)
 - [Introdução a Modelagem de Dados 10 | Construindo Modelo Lógico a partir do Conceitual](https://www.youtube.com/watch?v=_vojZWiK8I8)
