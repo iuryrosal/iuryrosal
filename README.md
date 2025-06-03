@@ -42,7 +42,7 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
-- [ASSUNTO | NOME DA DISCIPLINA &lpar;Parte X&rpar;](https://www.youtube.com/watch?v=yLZVt4TA_2w)
+- [Algebra Relacional e Teoria dos Conjuntos | Modelagem de Dados 15](https://www.youtube.com/watch?v=yLZVt4TA_2w)
 - [Introdução a Modelagem de Dados 13 | Algebra Relacional e Relax](https://www.youtube.com/watch?v=fE5AcBwsq5M)
 - [Introdução a Modelagem de Dados 14 | Operações: Seleção, Ordenação e Agrupamento](https://www.youtube.com/watch?v=IFXMw1X7124)
 - [Introdução a Modelagem de Dados 12 | Tipagem de Dados](https://www.youtube.com/watch?v=wNgAKE7jDlk)
