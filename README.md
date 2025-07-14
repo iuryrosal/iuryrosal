@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Junções Anti/Semi e Operações | Modelagem de Dados 17](https://www.youtube.com/watch?v=Gu-kDsRJmEc)
 - [Junções e Usando Relacionamentos | Modelagem de Dados 16](https://www.youtube.com/watch?v=EheMRE26YNI)
 - [Algebra Relacional e Teoria dos Conjuntos | Modelagem de Dados 15](https://www.youtube.com/watch?v=yLZVt4TA_2w)
 - [Álgebra Relacional e Relax | Modelagem de Dados 13](https://www.youtube.com/watch?v=fE5AcBwsq5M)
 - [Operações: Seleção, Ordenação e Agrupamento | Modelagem de Dados 14](https://www.youtube.com/watch?v=IFXMw1X7124)
-- [Tipagem de Dados | Modelagem de Dados 12](https://www.youtube.com/watch?v=wNgAKE7jDlk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
