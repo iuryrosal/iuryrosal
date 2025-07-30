@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Construindo Modelo Físico | Modelagem de Dados 20](https://www.youtube.com/watch?v=zDw7YrF5aFU)
 - [Modelagem Física de Banco de Dados Relacional | Modelagem de Dados 19](https://www.youtube.com/watch?v=QBXfH8COfC4)
 - [Propriedades ACID | Modelagem de Dados 18](https://www.youtube.com/watch?v=g1ZWkvjbZ64)
 - [Junções Anti/Semi e Operações | Modelagem de Dados 17](https://www.youtube.com/watch?v=Gu-kDsRJmEc)
 - [Junções e Usando Relacionamentos | Modelagem de Dados 16](https://www.youtube.com/watch?v=EheMRE26YNI)
-- [Algebra Relacional e Teoria dos Conjuntos | Modelagem de Dados 15](https://www.youtube.com/watch?v=yLZVt4TA_2w)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
