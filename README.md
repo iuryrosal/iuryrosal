@@ -42,8 +42,8 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
-- [Construindo Modelo Físico | Modelagem de Dados 22](https://www.youtube.com/watch?v=LCalBRBHyxA)
-- [Construindo Modelo Físico | Modelagem de Dados 21](https://www.youtube.com/watch?v=3LEE0URzQwc)
+- [Normalização | Modelagem de Dados 22](https://www.youtube.com/watch?v=LCalBRBHyxA)
+- [Dependências Funcionais e Anomalias | Modelagem de Dados 21](https://www.youtube.com/watch?v=3LEE0URzQwc)
 - [Construindo Modelo Físico | Modelagem de Dados 20](https://www.youtube.com/watch?v=zDw7YrF5aFU)
 - [Modelagem Física de Banco de Dados Relacional | Modelagem de Dados 19](https://www.youtube.com/watch?v=QBXfH8COfC4)
 - [Propriedades ACID | Modelagem de Dados 18](https://www.youtube.com/watch?v=g1ZWkvjbZ64)
