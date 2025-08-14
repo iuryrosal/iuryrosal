@@ -42,11 +42,11 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Arquitetura de Dados | Modelagem de Dados 26](https://www.youtube.com/watch?v=pI5AsOx8CoY)
 - [OLTP vs OLAP | Modelagem de Dados 25](https://www.youtube.com/watch?v=tqKuklTmwqU)
 - [Bancos de Dados Não Relacionais | Modelagem de Dados 24](https://www.youtube.com/watch?v=StCFCcCCOXI)
 - [Normalização | Modelagem de Dados 22](https://www.youtube.com/watch?v=LCalBRBHyxA)
 - [Dependências Funcionais e Anomalias | Modelagem de Dados 21](https://www.youtube.com/watch?v=3LEE0URzQwc)
-- [Construindo Modelo Físico | Modelagem de Dados 20](https://www.youtube.com/watch?v=zDw7YrF5aFU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
