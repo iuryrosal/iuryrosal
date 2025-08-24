@@ -1,14 +1,14 @@
 <h1 align="center">Iury Rosal</h1>
-<h3 align="center">Data & Analytics Engineer</h3>
+<h3 align="center">Data Platform Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/iuryrosal/iuryrosal/blob/main/images/BannerGitHub.png" alt="Banner's Iury"/>
 </p>
 
 
-I'm a software engineer passionate about the world of Data Science and Data Engineering. I have more than 4 years of working experience using different technologies in several contexts, especially Python and AWS. I believe that my development helps in the development of other people. I love to learn new concepts, experience new challenges and pass on all the knowledge to impact other people's lives.
+I am a Data Engineer, specialized in building robust and scalable data pipelines and platforms. I have over 8 years of professional experience building solutions using Python, SQL, Google Cloud Platform (GCP), Amazon Web Services (AWS), Spark, Airflow and Databricks. I am a curious person by nature, with a consultant profile, I am always looking to improve processes, build tools that help with productivity and work on best practices together with the team. I believe that my development helps the development of others. I love learning new concepts, experiencing new challenges and sharing all my knowledge to impact other people's lives.
 
-Nowdays, I work in Data Engineering projects, involving data ingestion, operating in a cloud computing environment. In addition, I'm a content creator. I share my learnings and experiences through my YouTube channel and some training projects. I look forward to continuing to evolve my skills with Python and AWS, experimenting with new big data technologies such as Apache Spark and Airflow.
+I also have a Master's degree in Computer Science with a specialization in Software Engineering applied to Data. I produce various training and mentoring programs to help junior professionals develop through my company: Apoena Stack.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,10 +24,6 @@ Nowdays, I work in Data Engineering projects, involving data ingestion, operatin
 
 
 ## Details
-- 🔭 I'm working at Accenture.
-- 🌱 I'm improving my habillities with Apache Spark and AWS.
-- 🤗 I like to experience new learnings and collaborate with knowledge sharing
-- 😄 Pronouns: He/Him.
 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
