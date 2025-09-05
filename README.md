@@ -38,11 +38,11 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Modelagem Dimensional | Modelagem de Dados 28](https://www.youtube.com/watch?v=M3W5aWZcmCU)
 - [Modelagem Dimensional | Modelagem de Dados 27](https://www.youtube.com/watch?v=5PceG7iAjDc)
 - [Arquitetura de Dados | Modelagem de Dados 26](https://www.youtube.com/watch?v=pI5AsOx8CoY)
 - [OLTP vs OLAP | Modelagem de Dados 25](https://www.youtube.com/watch?v=tqKuklTmwqU)
 - [Bancos de Dados Não Relacionais | Modelagem de Dados 24](https://www.youtube.com/watch?v=StCFCcCCOXI)
-- [Normalização | Modelagem de Dados 22](https://www.youtube.com/watch?v=LCalBRBHyxA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
