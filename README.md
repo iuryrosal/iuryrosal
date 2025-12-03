@@ -38,8 +38,8 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Como preparar Linkedin para Oportunidades em Dados | Encontro #4](https://www.youtube.com/watch?v=qJMEZBCQ4O8)
 - [Da Bruta ao Ouro: Pipeline de Dados com Databricks | Encontro #3](https://www.youtube.com/watch?v=dh_iRaM8B1I)
-- [ETL com Python e e DLThub | Encontro #2](https://www.youtube.com/watch?v=7b7iWr4TTkk)
 - [Como se tornar Engenheiro de Dados em 2026?](https://www.youtube.com/watch?v=nGsk9DjPQBY)
 - [Próximos Passos | Modelagem de Dados 28](https://www.youtube.com/watch?v=M3W5aWZcmCU)
 - [Modelagem Dimensional | Modelagem de Dados 27](https://www.youtube.com/watch?v=5PceG7iAjDc)
