@@ -38,11 +38,11 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Apresentação do Curso | Fundamentos de Programação #01](https://www.youtube.com/watch?v=uk7QOu7cprY)
 - [Fundamentos de Programação &lpar;Parte 3&rpar; | Encontro #9](https://www.youtube.com/watch?v=vtU6VpdDWDY)
 - [Fundamentos de Programação &lpar;Parte 2&rpar; | Encontro #8](https://www.youtube.com/watch?v=X6remSKIyYM)
 - [Fundamentos de Programação &lpar;Parte 1&rpar; | Encontro #7](https://www.youtube.com/watch?v=eR2OtLCBd08)
 - [Governança de Dados com Databricks | Encontro #5](https://www.youtube.com/watch?v=5iGMRm4bMbk)
-- [Como se tornar Engenheiro de Dados em 2026?](https://www.youtube.com/watch?v=nGsk9DjPQBY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
