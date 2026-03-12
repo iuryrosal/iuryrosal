@@ -39,10 +39,10 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
 - [Fundamentos do Apache Spark | Encontro #14](https://www.youtube.com/watch?v=N0e9Y42zYnw)
-- [Web Scraping com Selenium | Encontro #13](https://www.youtube.com/watch?v=6tfnRE2OHfg)
-- [Integrando Banco de Dados com SQLAlchemy | Encontro #12](https://www.youtube.com/watch?v=QQk1gUXJeng)
-- [Qualidade e Validação de Dados com Pydantic | Encontro #11](https://www.youtube.com/watch?v=MsaMWMsq3fM)
 - [Fundamentos de Programação &lpar;Parte 3&rpar; | Encontro #9](https://www.youtube.com/watch?v=vtU6VpdDWDY)
+- [Fundamentos de Programação &lpar;Parte 2&rpar; | Encontro #8](https://www.youtube.com/watch?v=X6remSKIyYM)
+- [Fundamentos de Programação &lpar;Parte 1&rpar; | Encontro #7](https://www.youtube.com/watch?v=eR2OtLCBd08)
+- [Apresentação do Flowgorithm e Configuração | Fundamentos de Programação #03](https://www.youtube.com/watch?v=0MQs-8pqpeY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
