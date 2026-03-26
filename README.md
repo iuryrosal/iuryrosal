@@ -38,11 +38,11 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Instalando WSL | Preparação de Ambiente Moderno para Engenharia de Dados #1](https://www.youtube.com/watch?v=nLgn43SYVU0)
 - [Fundamentos do PySpark &lpar;Parte 1&rpar; | Curso Fundamentos de Apache Spark](https://www.youtube.com/watch?v=h-BcaQ1MaSs)
 - [Fundamentos de Programação &lpar;Parte 3&rpar; | Encontro #9](https://www.youtube.com/watch?v=vtU6VpdDWDY)
 - [Fundamentos de Programação &lpar;Parte 2&rpar; | Encontro #8](https://www.youtube.com/watch?v=X6remSKIyYM)
 - [Fundamentos de Programação &lpar;Parte 1&rpar; | Encontro #7](https://www.youtube.com/watch?v=eR2OtLCBd08)
-- [Apresentação do Flowgorithm e Configuração | Fundamentos de Programação #03](https://www.youtube.com/watch?v=0MQs-8pqpeY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
