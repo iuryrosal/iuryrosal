@@ -40,7 +40,7 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 <!-- BLOG-POST-LIST:START -->
 - [Instalação e Configuração do Python + Visual Studio Code &lpar;2026&rpar; | Preparação de Ambiente para Dev](https://www.youtube.com/watch?v=XL1otX4_WNM)
 - [Versionamento de Código com Git | Preparação de Ambiente Moderno para Engenharia de Dados #2](https://www.youtube.com/watch?v=0TD00ClhgA4)
-- [Docker e Containers | Preparação de Ambiente Moderno para Engenharia de Dados #2](https://www.youtube.com/watch?v=je54-rHZVx4)
+- [O que são containers e como lidar com eles com Docker | Introdução e Instalação](https://www.youtube.com/watch?v=je54-rHZVx4)
 - [Instalando WSL | Preparação de Ambiente Moderno para Engenharia de Dados #1](https://www.youtube.com/watch?v=nLgn43SYVU0)
 - [Fundamentos de Programação &lpar;Parte 3&rpar; | Encontro #9](https://www.youtube.com/watch?v=vtU6VpdDWDY)
 <!-- BLOG-POST-LIST:END -->
