@@ -38,11 +38,11 @@ I also have a Master's degree in Computer Science with a specialization in Softw
 
 ## Latest Youtube Videos (Portuguese only)
 <!-- BLOG-POST-LIST:START -->
+- [Você conhece a Arquitetura Medalhão?](https://www.youtube.com/watch?v=5xlIoxQpKhA)
 - [Intensivão Saindo das Planilhas com SQL + Databricks - Aula 03](https://www.youtube.com/watch?v=H5lczP6NS_s)
 - [Aula 02 - Intensivão Saindo das Planilhas com SQL + Databricks](https://www.youtube.com/watch?v=sM-V9-iAz-c)
 - [Intensivão Saindo das Planilhas com SQL + Databricks - Aula 01](https://www.youtube.com/watch?v=z7iRHFsJG7Q)
 - [Pipeline Ponta-a-Ponta no Lakehouse com Databricks](https://www.youtube.com/watch?v=byUYGqNhhDM)
-- [Modelagem de Dados com SQL e DBT](https://www.youtube.com/watch?v=N3DKPISozp4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Core Repositories
